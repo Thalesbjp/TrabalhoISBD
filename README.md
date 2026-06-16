@@ -4,6 +4,8 @@ Trabalho em grupo da matéria de Introdução a Sistemad de Banco de Dados
 ## Arquivos
 - ISBD - Trabalho Prático Entrega 1: Arquivo que foi entregue na 1 etapa
 - ISBD - Trabalho Prático Entrega 2: Arquivo que foi entregue na 2 etapa
+- ISBD - Trabalho Pratico Entrega 2 Corrigido : Arquivo Enviado pelo Mateus com as correções da segunda etapa
+- Modelo Relacional.mwb.zip : Arquivo enviado pelo Leonardo da segunda etapa não editado
 
 ## Links uteis:
 
