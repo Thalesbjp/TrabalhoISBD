@@ -143,7 +143,7 @@ $planos = mysqli_query($con, "SELECT idPlano, nomePlano FROM Plano ORDER BY nome
         </label>
         <p><button type="submit">Salvar</button></p>
     </form>
-    <p><a href="alunos.php">Voltar à lista de alunos</a> | <a href="index.html">Voltar ao menu principal</a></p>
+    <p><a href="alunos.php">Voltar à lista de alunos</a> | <a href="index.php">Voltar ao menu principal</a></p>
 </body>
 </html>
 <?php mysqli_close($con); ?>

@@ -86,7 +86,7 @@ if (isset($_GET['cpf'])) {
         </label>
         <p><button type="submit">Salvar</button></p>
     </form>
-    <p><a href="instrutores.php">Voltar à lista de instrutores</a> | <a href="index.html">Voltar ao menu principal</a></p>
+    <p><a href="instrutores.php">Voltar à lista de instrutores</a> | <a href="index.php">Voltar ao menu principal</a></p>
 </body>
 </html>
 <?php mysqli_close($con); ?>

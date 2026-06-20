@@ -69,7 +69,7 @@ if (isset($_GET['idPlano'])) {
         </label>
         <p><button type="submit">Salvar</button></p>
     </form>
-    <p><a href="planos.php">Voltar à lista de planos</a> | <a href="index.html">Voltar ao menu principal</a></p>
+    <p><a href="planos.php">Voltar à lista de planos</a> | <a href="index.php">Voltar ao menu principal</a></p>
 </body>
 </html>
 <?php mysqli_close($con); ?>

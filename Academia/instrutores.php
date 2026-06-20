@@ -42,7 +42,7 @@ $result = mysqli_query($con, $sql);
             </tr>
         <?php endwhile; ?>
     </table>
-    <p><a href="index.html">Voltar ao menu principal</a></p>
+    <p><a href="index.php">Voltar ao menu principal</a></p>
 </body>
 </html>
 <?php mysqli_close($con); ?>

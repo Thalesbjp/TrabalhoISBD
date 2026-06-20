@@ -8,6 +8,6 @@
     <h1>Instrutores</h1>
     <p>Se não for redirecionado automaticamente, clique <a href="instrutores.php">aqui</a>.</p>
     <script>window.location.href = 'instrutores.php';</script>
-    <p><a href="index.html">Voltar ao menu principal</a></p>
+    <p><a href="index.php">Voltar ao menu principal</a></p>
 </body>
 </html>

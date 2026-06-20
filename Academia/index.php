@@ -13,9 +13,9 @@
     <h1>Sistema de Gestão da Academia</h1>
     <p>Use o menu abaixo para gerenciar os dados do banco de dados.</p>
     <ul>
-        <li><a href="Alunos.html">Alunos</a></li>
-        <li><a href="Instrutor.html">Instrutores</a></li>
-        <li><a href="Plano.html">Planos</a></li>
+        <li><a href="alunos.php">Alunos</a></li>
+        <li><a href="Instrutor.php">Instrutores</a></li>
+        <li><a href="Plano.php">Planos</a></li>
     </ul>
 </body>
 </html>
