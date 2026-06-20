@@ -2,7 +2,9 @@
 Trabalho em grupo da matéria de Introdução a Sistemad de Banco de Dados
 
 ## Pastas
-- agenda-html : Um exemplo de projeto para fazer a consulta professor
+- Arquivos: editaveis entregas passadas, arquivos que auxiliam o desenvolvimento 
+- Agenda-html : Um exemplo de projeto para fazer a consulta professor
+- Scripts : Parte da ultima etapa. (Criação e população do banco, alteração, modificação, exclusão, consulta, views, usuarios, procedures, triggers)
 
 ## Arquivos
 - ISBD - Trabalho Prático Entrega 1: Arquivo que foi entregue na 1 etapa
