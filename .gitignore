@@ -1,0 +1,9 @@
+# Arquivos temporarios do Microsoft Office
+~$*
+
+# Backups do MySQL Workbench
+*.mwb.bak
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
